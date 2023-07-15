@@ -186,11 +186,11 @@ a:active {
 }
 
 .section-hero {
-    background-size: auto 90rem;
+    background-size: 90rem auto;
 }
 
 .section-hero .section-title {
-    margin: 0 0 5rem 0;
+    margin-bottom: 5rem;
 }
 
 .section-hero .section-tagline {
